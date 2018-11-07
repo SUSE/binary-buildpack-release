@@ -1,2 +1,0 @@
-    set -e -x
-    cp binary-buildpack/binary?buildpack-*.zip ${BOSH_INSTALL_TARGET}

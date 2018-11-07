@@ -1,4 +1,0 @@
----
-name: binary-buildpack-cflinuxfs2
-files:
-- binary-buildpack/binary?buildpack-cflinuxfs2-v*.zip

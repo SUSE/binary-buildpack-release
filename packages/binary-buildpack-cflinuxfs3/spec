@@ -1,4 +1,0 @@
----
-name: binary-buildpack-cflinuxfs3
-files:
-- binary-buildpack/binary?buildpack-cflinuxfs3-v*.zip

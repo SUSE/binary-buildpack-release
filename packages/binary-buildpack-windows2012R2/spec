@@ -1,4 +1,0 @@
----
-name: binary-buildpack-windows2012R2
-files:
-- binary-buildpack/binary?buildpack-windows2012R2-v*.zip

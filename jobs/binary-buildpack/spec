@@ -3,9 +3,6 @@ name: binary-buildpack
 templates: {}
 
 packages:
-- binary-buildpack-cflinuxfs2
-- binary-buildpack-cflinuxfs3
-- binary-buildpack-windows2012R2
-- binary-buildpack-windows2016
+- binary-buildpack
 
 properties: {}
