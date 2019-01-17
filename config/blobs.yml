@@ -1,5 +1,5 @@
 ---
-binary-buildpack/binary_buildpack-v1.0.28.1-1.1-7243ca6a.zip:
-  size: 4384847
-  object_id: binary_buildpack-v1.0.28.1-1.1-7243ca6a.zip
-  sha: 7243ca6a8f00c600ec8c403d432491603535a94c
+binary-buildpack/binary-buildpack-v1.0.29.1-1.1-0124e8d4.zip:
+  size: 4396633
+  object_id: binary-buildpack-v1.0.29.1-1.1-0124e8d4.zip
+  sha: 0124e8d46e4a8cfa7788c97f4df49a360cb12999
