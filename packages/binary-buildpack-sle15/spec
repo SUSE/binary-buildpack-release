@@ -1,0 +1,4 @@
+---
+name: binary-buildpack-sle15
+files:
+- binary-buildpack/binary?buildpack-sle15-v*.zip
