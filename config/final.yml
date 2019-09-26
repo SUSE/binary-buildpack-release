@@ -1,5 +1,5 @@
 ---
-final_name: binary-buildpack
+final_name: suse-binary-buildpack
 blobstore:
   provider: s3
   options:
