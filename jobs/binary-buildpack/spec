@@ -3,7 +3,6 @@ name: binary-buildpack
 templates: {}
 
 packages:
-- binary-buildpack-sle12
 - binary-buildpack-sle15
 
 properties: {}
