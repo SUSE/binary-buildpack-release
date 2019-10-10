@@ -1,0 +1,21 @@
+name: suse-binary-buildpack
+version: 1.0.35.1
+commit_hash: cf366e6
+uncommitted_changes: false
+jobs:
+- name: binary-buildpack
+  version: f75a2c33d99eecc06baf05c09f1f22d59573719cd0efcdb7047564c338a7fb3f
+  fingerprint: f75a2c33d99eecc06baf05c09f1f22d59573719cd0efcdb7047564c338a7fb3f
+  sha1: sha256:52d8f083bf5396156fec123035392819fa5d37dc34b81311490b24a325081f31
+  packages:
+  - binary-buildpack-sle15
+packages:
+- name: binary-buildpack-sle15
+  version: d9a1aef16cbe992b321aedf4e5d591d2c8aa51165d71f2d76239a42328d55410
+  fingerprint: d9a1aef16cbe992b321aedf4e5d591d2c8aa51165d71f2d76239a42328d55410
+  sha1: sha256:49804e4a3cfc154b2ae9d039a9074ba8c8b9c4ef57ea9eb67b14a70cfe82a2ba
+  dependencies: []
+license:
+  version: 2366c2faa2e09bf7264e06ff25b3a76c56491312b2195e024fff7a6edab73246
+  fingerprint: 2366c2faa2e09bf7264e06ff25b3a76c56491312b2195e024fff7a6edab73246
+  sha1: sha256:b58bbf14d839eac9515b624c8e2a71b910e63923db78f82c062522cea8497da2
